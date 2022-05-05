@@ -21,7 +21,7 @@
 #nav div{
     flex-grow: 0;
     flex-shrink: 0;
-    padding:50px 50px;
+    padding-top:50px;
   
 }
 #logo{
